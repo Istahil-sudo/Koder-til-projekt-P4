@@ -2,7 +2,7 @@
 
 int main()
 {
-    int hej=0;
+    float tester=0.2;
     int bil = 2;
     int cykel = 1;
 
